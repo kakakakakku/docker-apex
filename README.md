@@ -1,5 +1,8 @@
 # docker-apex
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/kakakakakku/apex.svg?style=for-the-badge)](https://hub.docker.com/r/kakakakakku/apex/)
+[![Docker Automated build](https://img.shields.io/docker/automated/kakakakakku/apex.svg?style=for-the-badge)](https://hub.docker.com/r/kakakakakku/apex/)
+
 Dockerized Apex (http://apex.run/) 🐳
 
 # Supported tags
