@@ -5,6 +5,14 @@
 
 Dockerized Apex (http://apex.run/) 🐳
 
+## Usage
+
+```sh
+$ docker pull kakakakakku/apex
+$ docker run kakakakakku/apex version
+$ docker run kakakakakku/apex --help
+```
+
 # Supported tags
 
 - latest (v1.0.0-rc2)
